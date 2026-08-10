@@ -4,7 +4,7 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 
 ### 🧮🤓 Currently Building 
 
-**Altoscope:** Creating an interactive platform for understanding how to choose the correct visual media gear
+**Altoscope:** Creating a platform for visual media gear rental. 
 
 ### 🧑‍💻🧑‍💻 Looking for Collaboration 
 
