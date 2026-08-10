@@ -1,6 +1,6 @@
 ## Hey everone 👋 I'm Darin
 
-I love to build! I'm a huge supporter of following your passions and being a lifelong learner. I live at the intersection between visual media and technology, with a background in studio photography and (soon to be) bachelors degree in data science. I'm also super interested in language learning and entrepreneurship. You can check out my website darinhall.com for more of my personal photography work as well! 
+I love to build! I'm a huge supporter of following your passions and being a lifelong learner. I live at the intersection between visual media and technology, with a background in studio photography and a bachelors degree in data science. I'm also super interested in language learning. You can check out my website darinhall.com for more of my personal photography work as well! 
 
 ### 🧮🤓 Currently Building 
 
